@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Binary Calculator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Calculator</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="calculate_name">Calculate</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="number_value">Number</string>
+    <string name="calculate">Calculate</string>
+    <string name="convert">Convert</string>
+    <string name="converted_number">Converted Number</string>
+    <string name="base_text">Base</string>
+    <string name="sample_image">Sample Image</string>
+    <string name="intro_text">Welcome to our calculator. This app is just a sample used to practice Android development</string>
+</resources>
